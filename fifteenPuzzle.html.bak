@@ -4,11 +4,11 @@
 
 
         <head>
-                <title>Grim Adventures of Billy and Mandy</title>
+                <title>Ed Edd n Eddy</title>
                 
                 
-                <link rel="stylesheet" type="text/css" href="fifteenPuzzle3.css" />
-               
+                <link rel="stylesheet" type="text/css" href="fifteenPuzzle.css" />
+                
 
                 <script type="text/javascript" src="fifteenPuzzle.js"></script>
                
@@ -16,13 +16,12 @@
         </head>
 
         <body>
-               <h1><a href="puzzlePick.html">Home</a></h1>
+                <h1><a href="puzzlePick.html">Home</a></h1>
 
                 <p id= "content">
                         The goal of the puzzle is to un-jumble its fifteen squares by repeatedly making moves that slide squares into the empty space. 
 						<br><br>Try to solve it with the lowest amount of moves!
                 </p>
-
 
                 <div id="square">
                         <div id="puzzle">
@@ -38,10 +37,12 @@
                         </div>
                 </div>
                 
-               <p id="content">
-                        The Grim Adventures of Billy & Mandy (also shortened to just Billy & Mandy) is an American animated television series created by Maxwell Atoms for Cartoon Network, originally part of Grim & Evil.
-						It follows an extremely dimwitted happy-go-lucky boy named Billy and a cynical remorseless girl named Mandy who, after winning a limbo game to save Billy's pet hamster, 
-						gain the mighty Grim Reaper as their best friend in eternal servitude and slavery.
+                <p id="content">
+					Ed, Edd n Eddy is an animated comedy television series created by Danny Antonucci for Cartoon Network, and the sixth of the network's Cartoon Cartoons.
+					The series revolves around three preteen boys named Ed, Edd (called "Double D" to avoid confusion with Ed), and Eddy. 
+					They live in a suburban cul-de-sac in the fictional town of Peach Creek. 
+					Under the unofficial leadership of Eddy, the trio frequently invents schemes to make money from their peers to purchase their favourite confection, jawbreakers. 
+					Their plans usually fail, leaving them in various, often humiliating, predicaments.
                 </p>
 
               

@@ -35,7 +35,7 @@ h1 {
 
 
 .puzzlepiece {
-        background-image: url("Blu.jpg");
+        background-image: url("Eddy.jpg");
         border: 2px solid black;
         height: 96px;
         line-height: 96px;
@@ -51,7 +51,7 @@ h1 {
         border-color: red;
         color: #660066;
         font-weight: bold;
-        text-decoration: none;
+        text-decoration: underline;
 }
 a:link{
 text-decoration: none;

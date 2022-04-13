@@ -1,5 +1,5 @@
 body {
-        background-image: linear-gradient(orange, blue);
+        background-color: white;
         font-size: 14pt;
 }
 
@@ -16,7 +16,9 @@ h1 {
         margin: 10px 0px;
         text-align: center;
 }
-
+#content{
+	text-align:center;
+}
 
 #square {
         margin-left: auto;
@@ -33,7 +35,7 @@ h1 {
 
 
 .puzzlepiece {
-        background-image: url(fifteen3.jpg);
+        background-image: url("Billy_Mandy.png");
         border: 2px solid black;
         height: 96px;
         line-height: 96px;
@@ -51,7 +53,16 @@ h1 {
         font-weight: bold;
         text-decoration: underline;
 }
-
+a:link{
+text-decoration: none;
+}
+a{
+	font-weight:bold;
+	color: black;
+}
+a:hover{
+	color: gray;
+}
 #w3c {
         text-align: right;
 }

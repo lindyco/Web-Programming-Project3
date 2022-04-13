@@ -17,9 +17,7 @@ h1 {
         text-align: center;
 }
 
-#content{
-	text-align:center;
-}
+
 #square {
         margin-left: auto;
         margin-right: auto;
@@ -53,16 +51,7 @@ h1 {
         font-weight: bold;
         text-decoration: none;
 }
-a:link{
-text-decoration: none;
-}
-a{
-	font-weight:bold;
-	color: black;
-}
-a:hover{
-	color: gray;
-}
+
 #w3c {
         text-align: right;
 }

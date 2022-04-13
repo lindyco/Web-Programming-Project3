@@ -4,12 +4,14 @@
 
 
         <head>
-                <title>Ed Edd n Eddy</title>
+                <title>Foster's Home for Imaginary Friends</title>
                 
                 
-                <link rel="stylesheet" type="text/css" href="fifteenPuzzle.css" />
+                <link rel="stylesheet" type="text/css" href="fifteenPuzzle2.css" />
+                <link rel="shortcut" type="image/gif" href="fifteen2.jpg" />
+
                 <script type="text/javascript" src="fifteenPuzzle.js"></script>
-               
+                <script type="text/javascript" src="http://www.cs.washington.edu/education/courses/cse190m/08sp/prototype.js"></script>
                 
         </head>
 
@@ -36,11 +38,11 @@
                 </div>
                 
                 <p id="content">
-					Ed, Edd n Eddy is an animated comedy television series created by Danny Antonucci for Cartoon Network, and the sixth of the network's Cartoon Cartoons.
-					The series revolves around three preteen boys named Ed, Edd (called "Double D" to avoid confusion with Ed), and Eddy. 
-					They live in a suburban cul-de-sac in the fictional town of Peach Creek. 
-					Under the unofficial leadership of Eddy, the trio frequently invents schemes to make money from their peers to purchase their favourite confection, jawbreakers. 
-					Their plans usually fail, leaving them in various, often humiliating, predicaments.
+                        Foster's Home for Imaginary Friends (also known as Foster's Home, or simply Foster's for short) is an American animated television series created by Craig McCracken for Cartoon Network. 
+						It was produced by Cartoon Network Studios as the network's first show animated primarily with Adobe Flash, which was done in Ireland by Boulder Media. 
+						Set in a world in which imaginary friends coexist with humans, it centers on a boy named Mac who is pressured by his mother to abandon his imaginary friend Bloo. 
+						After the duo discover an orphanage dedicated to housing abandoned imaginary friends, Bloo moves into the home and is kept from adoption as long as Mac visits him daily at exactly 3:00 PM.
+						The episodes revolve around Mac and Bloo as they interact with other imaginary friends and house staff and live out their day-to-day adventures, often getting caught up in various predicaments.
                 </p>
 
               

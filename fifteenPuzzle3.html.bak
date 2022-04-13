@@ -16,7 +16,7 @@
         </head>
 
         <body>
-               <h1><a href="puzzlePick.html">Home</a></h1>
+               
 
                 <p id= "content">
                         The goal of the puzzle is to un-jumble its fifteen squares by repeatedly making moves that slide squares into the empty space. 

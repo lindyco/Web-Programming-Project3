@@ -1,5 +1,5 @@
 body {
-        background-color: lightblue;
+        background-color: white;
         font-size: 14pt;
 }
 
@@ -17,7 +17,9 @@ h1 {
         text-align: center;
 }
 
-
+#content{
+	text-align:center;
+}
 #square {
         margin-left: auto;
         margin-right: auto;
@@ -33,7 +35,7 @@ h1 {
 
 
 .puzzlepiece {
-        background-image: url(fifteen.png);
+        background-image: url("Eddy.jpg");
         border: 2px solid black;
         height: 96px;
         line-height: 96px;
@@ -49,9 +51,18 @@ h1 {
         border-color: red;
         color: #660066;
         font-weight: bold;
-        text-decoration: underline;
+        text-decoration: none;
 }
-
+a:link{
+text-decoration: none;
+}
+a{
+	font-weight:bold;
+	color: black;
+}
+a:hover{
+	color: gray;
+}
 #w3c {
         text-align: right;
 }
